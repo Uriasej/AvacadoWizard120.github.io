@@ -2,8 +2,8 @@
 Wow That's a mouthful!
 Yep you read that correctly, cavocraft.tk is a cross platform Minecraft server.
 This means you can connect to it from ANY device that you can connect and play Minecraft servers on.
-So you're playing on your xbox one/PS4/PS5/Switch/Windows 10/iPhone/Android
-Then you can play with your friends that are on Java Edition. (Windows/Linux/Mac)
+ - So you're playing on your xbox one/PS4/PS5/Switch/Windows 10/iPhone/Android
+ - Then you can play with your friends that are on Java Edition. (Windows/Linux/Mac)
 
 ## 2/3/2021
  * Changelog Begin!
