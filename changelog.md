@@ -5,6 +5,14 @@ This means you can connect to it from ANY device that you can connect and play M
  - So you're playing on your xbox one/PS4/PS5/Switch/Windows 10/iPhone/Android
  - Then you can play with your friends that are on Java Edition. (Windows/Linux/Mac)
 
+## 2/4/2021
+ * Changed Dead Chest to 3,000 seconds instead of 300
+ * Server Event Scheduled to Begin on 2/5/2021
+   1. It will end upon completion
+   2. Reward: Ender Dragon Load of XP
+   3. Mission: Defeat the Ender Dragon or watch live stream.
+   4. Stay Tuned
+
 ## 2/3/2021
  * Changelog Begin!
  * Added Per World Inventory so that people don't go into bedwars with their diamond swords and loose it all by accident.
