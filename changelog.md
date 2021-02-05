@@ -7,6 +7,7 @@ This means you can connect to it from ANY device that you can connect and play M
 
 ## 2/4/2021
  * Changed Dead Chest to 3,000 seconds instead of 300
+ * Fixed Some Lag Issues
  * Server Event Scheduled to Begin on 2/5/2021
    1. It will end upon completion
    2. Reward: Ender Dragon Load of XP
