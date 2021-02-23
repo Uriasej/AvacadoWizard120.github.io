@@ -1,0 +1,13 @@
+.online {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+.vote {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
