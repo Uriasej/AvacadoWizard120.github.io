@@ -1,6 +1,7 @@
 .online {
   display: flex;
   justify-content: center;
+  background-color: #2B2A11;
   align-items: center;
   flex-direction: row;
 }
@@ -8,6 +9,7 @@
 .vote {
   display: flex;
   justify-content: center;
+  background-color: #2B2A11;
   align-items: center;
   flex-direction: row;
 }
