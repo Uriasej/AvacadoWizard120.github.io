@@ -1,5 +1,5 @@
 .online {
-  background-color: #2B2A11;
+  background-color: #1F2150;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -7,7 +7,7 @@
 }
 
 .vote {
-  background-color: #2B2A11;
+  background-color: #1F2150;
   display: flex;
   justify-content: center;
   align-items: center;
