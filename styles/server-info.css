@@ -1,0 +1,16 @@
+.online {
+  background-color: #1F2150;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+  flex-direction: row;
+}
+
+.vote {
+  background-color: #1F2150;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
