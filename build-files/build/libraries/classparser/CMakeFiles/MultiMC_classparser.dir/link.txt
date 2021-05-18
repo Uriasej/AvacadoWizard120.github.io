@@ -1,0 +1,2 @@
+/usr/bin/ar qc libMultiMC_classparser.a CMakeFiles/MultiMC_classparser.dir/MultiMC_classparser_autogen/mocs_compilation.cpp.o CMakeFiles/MultiMC_classparser.dir/src/classparser.cpp.o CMakeFiles/MultiMC_classparser.dir/src/annotations.cpp.o
+/usr/bin/ranlib libMultiMC_classparser.a

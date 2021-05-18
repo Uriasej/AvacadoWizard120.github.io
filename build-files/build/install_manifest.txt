@@ -1,0 +1,10 @@
+/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/./MultiMC
+/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/bin/libMultiMC_nbt++.so
+/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/bin/jars/NewLaunch.jar
+/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/bin/jars/JavaCheck.jar
+/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/bin/libMultiMC_quazip.so
+/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/bin/libMultiMC_rainbow.so
+/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/bin/libMultiMC_iconfix.so
+/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/bin/libMultiMC_logic.so
+/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/bin/libMultiMC_gui.so
+/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/bin/MultiMC

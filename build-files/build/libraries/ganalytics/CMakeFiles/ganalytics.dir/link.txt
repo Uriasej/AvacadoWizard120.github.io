@@ -1,0 +1,2 @@
+/usr/bin/ar qc libganalytics.a CMakeFiles/ganalytics.dir/ganalytics_autogen/mocs_compilation.cpp.o CMakeFiles/ganalytics.dir/src/ganalytics.cpp.o CMakeFiles/ganalytics.dir/src/ganalytics_worker.cpp.o
+/usr/bin/ranlib libganalytics.a

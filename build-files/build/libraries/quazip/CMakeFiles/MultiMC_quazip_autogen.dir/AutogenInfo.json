@@ -1,0 +1,248 @@
+{
+	"BUILD_DIR" : "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/build/libraries/quazip/MultiMC_quazip_autogen",
+	"CMAKE_BINARY_DIR" : "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/build/libraries/quazip",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/src/libraries/quazip",
+	"CMAKE_EXECUTABLE" : "/snap/cmake/870/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/src/libraries/quazip/CMakeLists.txt",
+		"/snap/cmake/870/share/cmake-3.20/Modules/FindZLIB.cmake",
+		"/snap/cmake/870/share/cmake-3.20/Modules/SelectLibraryConfigurations.cmake",
+		"/snap/cmake/870/share/cmake-3.20/Modules/FindPackageHandleStandardArgs.cmake",
+		"/snap/cmake/870/share/cmake-3.20/Modules/FindPackageMessage.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Network/Qt5NetworkConfigVersion.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Network/Qt5NetworkConfig.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Test/Qt5TestConfigVersion.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Test/Qt5TestConfig.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/src",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/src/libraries/quazip/quazip/JlCompress.h",
+			"Mu",
+			"WVUSKIZFMN/moc_JlCompress.cpp",
+			null
+		],
+		[
+			"/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/src/libraries/quazip/quazip/crypt.h",
+			"Mu",
+			"WVUSKIZFMN/moc_crypt.cpp",
+			null
+		],
+		[
+			"/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/src/libraries/quazip/quazip/ioapi.h",
+			"Mu",
+			"WVUSKIZFMN/moc_ioapi.cpp",
+			null
+		],
+		[
+			"/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/src/libraries/quazip/quazip/quaadler32.h",
+			"Mu",
+			"WVUSKIZFMN/moc_quaadler32.cpp",
+			null
+		],
+		[
+			"/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/src/libraries/quazip/quazip/quachecksum32.h",
+			"Mu",
+			"WVUSKIZFMN/moc_quachecksum32.cpp",
+			null
+		],
+		[
+			"/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/src/libraries/quazip/quazip/quacrc32.h",
+			"Mu",
+			"WVUSKIZFMN/moc_quacrc32.cpp",
+			null
+		],
+		[
+			"/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/src/libraries/quazip/quazip/quagzipfile.h",
+			"Mu",
+			"WVUSKIZFMN/moc_quagzipfile.cpp",
+			null
+		],
+		[
+			"/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/src/libraries/quazip/quazip/quaziodevice.h",
+			"Mu",
+			"WVUSKIZFMN/moc_quaziodevice.cpp",
+			null
+		],
+		[
+			"/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/src/libraries/quazip/quazip/quazip.h",
+			"Mu",
+			"WVUSKIZFMN/moc_quazip.cpp",
+			null
+		],
+		[
+			"/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/src/libraries/quazip/quazip/quazip_global.h",
+			"Mu",
+			"WVUSKIZFMN/moc_quazip_global.cpp",
+			null
+		],
+		[
+			"/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/src/libraries/quazip/quazip/quazipdir.h",
+			"Mu",
+			"WVUSKIZFMN/moc_quazipdir.cpp",
+			null
+		],
+		[
+			"/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/src/libraries/quazip/quazip/quazipfile.h",
+			"Mu",
+			"WVUSKIZFMN/moc_quazipfile.cpp",
+			null
+		],
+		[
+			"/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/src/libraries/quazip/quazip/quazipfileinfo.h",
+			"Mu",
+			"WVUSKIZFMN/moc_quazipfileinfo.cpp",
+			null
+		],
+		[
+			"/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/src/libraries/quazip/quazip/quazipnewinfo.h",
+			"Mu",
+			"WVUSKIZFMN/moc_quazipnewinfo.cpp",
+			null
+		],
+		[
+			"/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/src/libraries/quazip/quazip/unzip.h",
+			"Mu",
+			"WVUSKIZFMN/moc_unzip.cpp",
+			null
+		],
+		[
+			"/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/src/libraries/quazip/quazip/zip.h",
+			"Mu",
+			"WVUSKIZFMN/moc_zip.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/build/libraries/quazip/MultiMC_quazip_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/build/libraries/quazip/MultiMC_quazip_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"MultiMC_quazip_EXPORTS",
+		"QT_CORE_LIB",
+		"QT_NO_DEBUG",
+		"QUAZIP_BUILD"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/build/libraries/quazip",
+		"/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/src/libraries/quazip",
+		"/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/src/libraries/quazip/quazip",
+		"/usr/include/x86_64-linux-gnu/qt5",
+		"/usr/include/x86_64-linux-gnu/qt5/QtCore",
+		"/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++",
+		"/usr/include",
+		"/usr/include/c++/7",
+		"/usr/include/x86_64-linux-gnu/c++/7",
+		"/usr/include/c++/7/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/7/include",
+		"/usr/local/include",
+		"/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed",
+		"/usr/include/x86_64-linux-gnu"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/snap/cmake/870/share/cmake-3.20/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/build/libraries/quazip/MultiMC_quazip_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 2,
+	"PARSE_CACHE_FILE" : "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/build/libraries/quazip/CMakeFiles/MultiMC_quazip_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt5/bin/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 9,
+	"SETTINGS_FILE" : "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/build/libraries/quazip/CMakeFiles/MultiMC_quazip_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/src/libraries/quazip/quazip/JlCompress.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/src/libraries/quazip/quazip/qioapi.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/src/libraries/quazip/quazip/quaadler32.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/src/libraries/quazip/quazip/quacrc32.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/src/libraries/quazip/quazip/quagzipfile.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/src/libraries/quazip/quazip/quaziodevice.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/src/libraries/quazip/quazip/quazip.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/src/libraries/quazip/quazip/quazipdir.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/src/libraries/quazip/quazip/quazipfile.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/src/libraries/quazip/quazip/quazipfileinfo.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/src/libraries/quazip/quazip/quazipnewinfo.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/src/libraries/quazip/quazip/unzip.c",
+			"Mu",
+			null
+		],
+		[
+			"/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/src/libraries/quazip/quazip/zip.c",
+			"Mu",
+			null
+		]
+	],
+	"VERBOSITY" : 0
+}

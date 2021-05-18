@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  "../../libMultiMC_quazip.pdb"
+  "../../libMultiMC_quazip.so"
+  "CMakeFiles/MultiMC_quazip_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/MultiMC_quazip_autogen.dir/ParseCache.txt"
+  "MultiMC_quazip_autogen"
+  "CMakeFiles/MultiMC_quazip.dir/MultiMC_quazip_autogen/mocs_compilation.cpp.o"
+  "CMakeFiles/MultiMC_quazip.dir/MultiMC_quazip_autogen/mocs_compilation.cpp.o.d"
+  "CMakeFiles/MultiMC_quazip.dir/quazip/JlCompress.cpp.o"
+  "CMakeFiles/MultiMC_quazip.dir/quazip/JlCompress.cpp.o.d"
+  "CMakeFiles/MultiMC_quazip.dir/quazip/qioapi.cpp.o"
+  "CMakeFiles/MultiMC_quazip.dir/quazip/qioapi.cpp.o.d"
+  "CMakeFiles/MultiMC_quazip.dir/quazip/quaadler32.cpp.o"
+  "CMakeFiles/MultiMC_quazip.dir/quazip/quaadler32.cpp.o.d"
+  "CMakeFiles/MultiMC_quazip.dir/quazip/quacrc32.cpp.o"
+  "CMakeFiles/MultiMC_quazip.dir/quazip/quacrc32.cpp.o.d"
+  "CMakeFiles/MultiMC_quazip.dir/quazip/quagzipfile.cpp.o"
+  "CMakeFiles/MultiMC_quazip.dir/quazip/quagzipfile.cpp.o.d"
+  "CMakeFiles/MultiMC_quazip.dir/quazip/quaziodevice.cpp.o"
+  "CMakeFiles/MultiMC_quazip.dir/quazip/quaziodevice.cpp.o.d"
+  "CMakeFiles/MultiMC_quazip.dir/quazip/quazip.cpp.o"
+  "CMakeFiles/MultiMC_quazip.dir/quazip/quazip.cpp.o.d"
+  "CMakeFiles/MultiMC_quazip.dir/quazip/quazipdir.cpp.o"
+  "CMakeFiles/MultiMC_quazip.dir/quazip/quazipdir.cpp.o.d"
+  "CMakeFiles/MultiMC_quazip.dir/quazip/quazipfile.cpp.o"
+  "CMakeFiles/MultiMC_quazip.dir/quazip/quazipfile.cpp.o.d"
+  "CMakeFiles/MultiMC_quazip.dir/quazip/quazipfileinfo.cpp.o"
+  "CMakeFiles/MultiMC_quazip.dir/quazip/quazipfileinfo.cpp.o.d"
+  "CMakeFiles/MultiMC_quazip.dir/quazip/quazipnewinfo.cpp.o"
+  "CMakeFiles/MultiMC_quazip.dir/quazip/quazipnewinfo.cpp.o.d"
+  "CMakeFiles/MultiMC_quazip.dir/quazip/unzip.c.o"
+  "CMakeFiles/MultiMC_quazip.dir/quazip/unzip.c.o.d"
+  "CMakeFiles/MultiMC_quazip.dir/quazip/zip.c.o"
+  "CMakeFiles/MultiMC_quazip.dir/quazip/zip.c.o.d"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C CXX)
+  include(CMakeFiles/MultiMC_quazip.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

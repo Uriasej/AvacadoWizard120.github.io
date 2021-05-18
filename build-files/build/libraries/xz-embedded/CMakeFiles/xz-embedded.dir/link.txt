@@ -1,0 +1,2 @@
+/usr/bin/ar qc libxz-embedded.a CMakeFiles/xz-embedded.dir/xz-embedded_autogen/mocs_compilation.cpp.o CMakeFiles/xz-embedded.dir/src/xz_crc32.c.o CMakeFiles/xz-embedded.dir/src/xz_crc64.c.o CMakeFiles/xz-embedded.dir/src/xz_dec_lzma2.c.o CMakeFiles/xz-embedded.dir/src/xz_dec_stream.c.o
+/usr/bin/ranlib libxz-embedded.a

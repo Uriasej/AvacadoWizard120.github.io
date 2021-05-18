@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhoedown.a CMakeFiles/hoedown.dir/hoedown_autogen/mocs_compilation.cpp.o CMakeFiles/hoedown.dir/src/autolink.c.o CMakeFiles/hoedown.dir/src/buffer.c.o CMakeFiles/hoedown.dir/src/document.c.o CMakeFiles/hoedown.dir/src/escape.c.o CMakeFiles/hoedown.dir/src/html.c.o CMakeFiles/hoedown.dir/src/html_blocks.c.o CMakeFiles/hoedown.dir/src/html_smartypants.c.o CMakeFiles/hoedown.dir/src/stack.c.o CMakeFiles/hoedown.dir/src/version.c.o
+/usr/bin/ranlib libhoedown.a

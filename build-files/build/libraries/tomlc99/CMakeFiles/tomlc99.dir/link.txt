@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtomlc99.a CMakeFiles/tomlc99.dir/tomlc99_autogen/mocs_compilation.cpp.o CMakeFiles/tomlc99.dir/src/toml.c.o
+/usr/bin/ranlib libtomlc99.a

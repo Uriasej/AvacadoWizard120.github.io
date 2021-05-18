@@ -1,0 +1,112 @@
+{
+	"BUILD_DIR" : "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/build/libraries/iconfix/MultiMC_iconfix_autogen",
+	"CMAKE_BINARY_DIR" : "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/build/libraries/iconfix",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/src/libraries/iconfix",
+	"CMAKE_EXECUTABLE" : "/snap/cmake/870/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/src/libraries/iconfix/CMakeLists.txt",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
+		"/snap/cmake/870/share/cmake-3.20/Modules/exportheader.cmake.in"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/src",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/src/libraries/iconfix/internal/qhexstring_p.h",
+			"Mu",
+			"EGDWYGFDBT/moc_qhexstring_p.cpp",
+			null
+		],
+		[
+			"/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/src/libraries/iconfix/internal/qiconloader_p.h",
+			"Mu",
+			"EGDWYGFDBT/moc_qiconloader_p.cpp",
+			null
+		],
+		[
+			"/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/src/libraries/iconfix/xdgicon.h",
+			"Mu",
+			"EWIEGA46WW/moc_xdgicon.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/build/libraries/iconfix/MultiMC_iconfix_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/build/libraries/iconfix/MultiMC_iconfix_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"MultiMC_iconfix_EXPORTS",
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NO_DEBUG",
+		"QT_WIDGETS_LIB"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/build/libraries/iconfix",
+		"/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/src/libraries/iconfix",
+		"/usr/include/x86_64-linux-gnu/qt5",
+		"/usr/include/x86_64-linux-gnu/qt5/QtCore",
+		"/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++",
+		"/usr/include/x86_64-linux-gnu/qt5/QtWidgets",
+		"/usr/include/x86_64-linux-gnu/qt5/QtGui",
+		"/usr/include",
+		"/usr/include/c++/7",
+		"/usr/include/x86_64-linux-gnu/c++/7",
+		"/usr/include/c++/7/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/7/include",
+		"/usr/local/include",
+		"/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed",
+		"/usr/include/x86_64-linux-gnu"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/snap/cmake/870/share/cmake-3.20/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/build/libraries/iconfix/MultiMC_iconfix_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 2,
+	"PARSE_CACHE_FILE" : "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/build/libraries/iconfix/CMakeFiles/MultiMC_iconfix_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt5/bin/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 9,
+	"SETTINGS_FILE" : "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/build/libraries/iconfix/CMakeFiles/MultiMC_iconfix_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/src/libraries/iconfix/internal/qiconloader.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/src/libraries/iconfix/xdgicon.cpp",
+			"Mu",
+			null
+		]
+	],
+	"VERBOSITY" : 0
+}

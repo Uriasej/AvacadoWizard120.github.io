@@ -1,0 +1,383 @@
+    0.018 D <> Log initialized.
+    0.018 D MultiMC 5, (c) 2013-2021 MultiMC Contributors
+    0.018 D Version                    :  "0.6.12-custom"
+    0.019 D Git commit                 :  "911074e9669b6399df983a570c734018c2abd139"
+    0.019 D Git refspec                :  "refs/heads/develop"
+    0.019 D Work dir before adjustment :  "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install"
+    0.019 D Work dir after adjustment  :  "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install"
+    0.019 D Adjusted by                :  "Command line /home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install"
+    0.019 D Binary path                :  "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/bin"
+    0.019 D Application root path      :  "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install"
+    0.020 D <> Paths set.
+    0.095 D Detected default console font: "DejaVu Sans Mono" , substitutions: ""
+    0.096 D <> Settings loaded.
+    0.096 C Exception: "Unable to open /home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/translations/index_v2.json for reading: No such file or directory"
+    0.097 C Translations Download Failed: index file not readable
+    0.097 W Selected invalid language "" , defaulting to "en_US"
+    0.097 D Your language is ""
+    0.097 D <> Translations loaded.
+    0.098 D Started watching  "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/icons"
+    0.240 D <> Instance icons intialized.
+    0.267 D <> Icon themes initialized.
+    0.267 D Determining System Theme...
+    0.267 D System theme seems to be: "fusion"
+    0.267 D Considering theme from theme factory: "windows"
+    0.267 D Considering theme from theme factory: "fusion"
+    0.267 D System theme has been determined to be: "Fusion"
+    0.267 D Loading theme "custom"
+    0.268 D No theme json present.
+    0.309 D No theme css present.
+    0.334 D <> Widget themes initialized.
+    0.334 D Instance path              :  "instances"
+    0.335 D Loading Instances...
+    0.335 D Discovering instances in "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/instances"
+    0.336 D <> Instances loaded.
+    0.336 D Loading accounts...
+    0.336 C "Failed to read the account list file (accounts.json)."
+    0.336 D <> Accounts loaded.
+    0.336 D <> Cache initialized.
+    0.337 D Detecting proxy settings...
+    0.337 D Using no proxy is an option!
+    0.337 D <> Proxy settings done.
+    0.337 D Downloading Translations Index...
+    0.338 D Task "NetJob(Translations Index)" starting for the first time
+    0.339 D <> Icon theme set.
+    0.339 D <> Application theme set.
+    0.368 D Analytics info not seen by user yet (or old version).
+    1.071 D Downloading  "https://files.multimc.org/translations/index_v2.json"
+    1.281 D Dir changed: "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/translations"
+    1.281 C Exception: "Unable to open /home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/translations/index_v2.json for reading: No such file or directory"
+    1.281 C Translations Download Failed: index file not readable
+    1.720 D Download succeeded: "https://files.multimc.org/translations/index_v2.json"
+    1.720 D Task "NetJob(Translations Index)" succeeded
+    1.720 D Got translations index!
+    1.721 D Dir changed: "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/translations"
+    1.844 W   OpenType support missing for "Ubuntu", script 20
+    5.752 D Task "JavaListLoadTask(0x56012aedc090)" starting for the first time
+    5.752 D Linux Java detection incomplete - defaulting to "java"
+    5.778 D Probing the following Java paths: 
+    5.779 D   "java"
+    5.779 D   "/usr/lib/jvm/java-11-openjdk-amd64/jre/bin/java"
+    5.779 D   "/usr/lib/jvm/java-11-openjdk-amd64/bin/java"
+    5.779 D   "/usr/lib/jvm/java-8-openjdk-amd64/jre/bin/java"
+    5.780 D   "/usr/lib/jvm/java-8-openjdk-amd64/bin/java"
+    5.780 D Task "JavaCheckerJob(0x56012a9cee50)" starting for the first time
+    5.780 D "Java detection"  started.
+    5.781 D Env: ignoring "LD_LIBRARY_PATH" "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/bin:"
+    5.781 D Env: ignoring "LD_PRELOAD" ""
+    5.781 D Env: ignoring "QT_ACCESSIBILITY" "1"
+    5.781 D Env: ignoring "QT_FONTPATH" "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/fonts"
+    5.782 D Env: ignoring "QT_IM_MODULE" "ibus"
+    5.782 D Env: ignoring "QT_PLUGIN_PATH" "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/plugins"
+    5.782 D Env: stripped @im=ibus from "@im=ibus" : ""
+    5.782 D "Running java checker: java-jar /home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/bin/jars/JavaCheck.jar"
+    5.787 D Env: ignoring "LD_LIBRARY_PATH" "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/bin:"
+    5.787 D Env: ignoring "LD_PRELOAD" ""
+    5.787 D Env: ignoring "QT_ACCESSIBILITY" "1"
+    5.787 D Env: ignoring "QT_FONTPATH" "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/fonts"
+    5.787 D Env: ignoring "QT_IM_MODULE" "ibus"
+    5.787 D Env: ignoring "QT_PLUGIN_PATH" "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/plugins"
+    5.787 D Env: stripped @im=ibus from "@im=ibus" : ""
+    5.787 D "Running java checker: /usr/lib/jvm/java-11-openjdk-amd64/jre/bin/java-jar /home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/bin/jars/JavaCheck.jar"
+    5.789 D Env: ignoring "LD_LIBRARY_PATH" "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/bin:"
+    5.789 D Env: ignoring "LD_PRELOAD" ""
+    5.789 D Env: ignoring "QT_ACCESSIBILITY" "1"
+    5.789 D Env: ignoring "QT_FONTPATH" "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/fonts"
+    5.789 D Env: ignoring "QT_IM_MODULE" "ibus"
+    5.789 D Env: ignoring "QT_PLUGIN_PATH" "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/plugins"
+    5.789 D Env: stripped @im=ibus from "@im=ibus" : ""
+    5.789 D "Running java checker: /usr/lib/jvm/java-11-openjdk-amd64/bin/java-jar /home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/bin/jars/JavaCheck.jar"
+    5.791 D Env: ignoring "LD_LIBRARY_PATH" "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/bin:"
+    5.791 D Env: ignoring "LD_PRELOAD" ""
+    5.791 D Env: ignoring "QT_ACCESSIBILITY" "1"
+    5.791 D Env: ignoring "QT_FONTPATH" "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/fonts"
+    5.791 D Env: ignoring "QT_IM_MODULE" "ibus"
+    5.791 D Env: ignoring "QT_PLUGIN_PATH" "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/plugins"
+    5.792 D Env: stripped @im=ibus from "@im=ibus" : ""
+    5.792 D "Running java checker: /usr/lib/jvm/java-8-openjdk-amd64/jre/bin/java-jar /home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/bin/jars/JavaCheck.jar"
+    5.794 D Env: ignoring "LD_LIBRARY_PATH" "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/bin:"
+    5.794 D Env: ignoring "LD_PRELOAD" ""
+    5.794 D Env: ignoring "QT_ACCESSIBILITY" "1"
+    5.794 D Env: ignoring "QT_FONTPATH" "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/fonts"
+    5.794 D Env: ignoring "QT_IM_MODULE" "ibus"
+    5.794 D Env: ignoring "QT_PLUGIN_PATH" "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/plugins"
+    5.794 D Env: stripped @im=ibus from "@im=ibus" : ""
+    5.794 D "Running java checker: /usr/lib/jvm/java-8-openjdk-amd64/bin/java-jar /home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/bin/jars/JavaCheck.jar"
+    5.814 D Java checker has failed to start.
+    5.814 D "Java detection" progress: 1 / 5
+    5.930 D STDOUT "os.arch=amd64\njava.version=1.8.0_292\njava.vendor=Private Build\n"
+    5.930 W STDERR ""
+    5.930 D Java checker finished with status  QProcess::ExitStatus(NormalExit)  exit code  0
+    5.930 D Java checker succeeded.
+    5.930 D "Java detection" progress: 2 / 5
+    5.936 D STDOUT "os.arch=amd64\njava.version=1.8.0_292\njava.vendor=Private Build\n"
+    5.936 W STDERR ""
+    5.936 D Java checker finished with status  QProcess::ExitStatus(NormalExit)  exit code  0
+    5.936 D Java checker succeeded.
+    5.936 D "Java detection" progress: 3 / 5
+    6.126 D STDOUT "os.arch=amd64\njava.version=11.0.11\njava.vendor=Ubuntu\n"
+    6.126 W STDERR ""
+    6.126 D Java checker finished with status  QProcess::ExitStatus(NormalExit)  exit code  0
+    6.126 D Java checker succeeded.
+    6.126 D "Java detection" progress: 4 / 5
+    6.128 D STDOUT "os.arch=amd64\njava.version=11.0.11\njava.vendor=Ubuntu\n"
+    6.128 W STDERR ""
+    6.128 D Java checker finished with status  QProcess::ExitStatus(NormalExit)  exit code  0
+    6.128 D Java checker succeeded.
+    6.128 D "Java detection" progress: 5 / 5
+    6.129 D Task "JavaCheckerJob(0x56012a9cee50)" succeeded
+    6.129 D Found the following valid Java installations:
+    6.129 D   "11.0.11" "64" "java"
+    6.129 D   "11.0.11" "64" "/usr/lib/jvm/java-11-openjdk-amd64/bin/java"
+    6.129 D   "1.8.0_292" "64" "/usr/lib/jvm/java-8-openjdk-amd64/jre/bin/java"
+    6.129 D   "1.8.0_292" "64" "/usr/lib/jvm/java-8-openjdk-amd64/bin/java"
+    6.129 D Task "JavaListLoadTask(0x56012aedc090)" succeeded
+    6.131 D Env: ignoring "LD_LIBRARY_PATH" "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/bin:"
+    6.131 D Env: ignoring "LD_PRELOAD" ""
+    6.131 D Env: ignoring "QT_ACCESSIBILITY" "1"
+    6.131 D Env: ignoring "QT_FONTPATH" "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/fonts"
+    6.131 D Env: ignoring "QT_IM_MODULE" "ibus"
+    6.131 D Env: ignoring "QT_PLUGIN_PATH" "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/plugins"
+    6.132 D Env: stripped @im=ibus from "@im=ibus" : ""
+    6.132 D "Running java checker: /usr/lib/jvm/java-8-openjdk-amd64/jre/bin/java-Xms512m -Xmx1024m -jar /home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/bin/jars/JavaCheck.jar"
+    6.204 D STDOUT "os.arch=amd64\njava.version=1.8.0_292\njava.vendor=Private Build\n"
+    6.204 W STDERR ""
+    6.204 D Java checker finished with status  QProcess::ExitStatus(NormalExit)  exit code  0
+    6.205 D Java checker succeeded.
+   10.330 D Env: ignoring "LD_LIBRARY_PATH" "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/bin:"
+   10.330 D Env: ignoring "LD_PRELOAD" ""
+   10.331 D Env: ignoring "QT_ACCESSIBILITY" "1"
+   10.331 D Env: ignoring "QT_FONTPATH" "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/fonts"
+   10.331 D Env: ignoring "QT_IM_MODULE" "ibus"
+   10.331 D Env: ignoring "QT_PLUGIN_PATH" "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/plugins"
+   10.332 D Env: stripped @im=ibus from "@im=ibus" : ""
+   10.332 D "Running java checker: /usr/lib/jvm/java-8-openjdk-amd64/jre/bin/java-Xms512m -Xmx1152m -jar /home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/bin/jars/JavaCheck.jar"
+   10.413 D STDOUT "os.arch=amd64\njava.version=1.8.0_292\njava.vendor=Private Build\n"
+   10.413 W STDERR ""
+   10.413 D Java checker finished with status  QProcess::ExitStatus(NormalExit)  exit code  0
+   10.413 D Java checker succeeded.
+   10.788 D Env: ignoring "LD_LIBRARY_PATH" "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/bin:"
+   10.789 D Env: ignoring "LD_PRELOAD" ""
+   10.789 D Env: ignoring "QT_ACCESSIBILITY" "1"
+   10.789 D Env: ignoring "QT_FONTPATH" "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/fonts"
+   10.789 D Env: ignoring "QT_IM_MODULE" "ibus"
+   10.790 D Env: ignoring "QT_PLUGIN_PATH" "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/plugins"
+   10.790 D Env: stripped @im=ibus from "@im=ibus" : ""
+   10.790 D "Running java checker: /usr/lib/jvm/java-8-openjdk-amd64/jre/bin/java-Xms512m -Xmx1280m -jar /home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/bin/jars/JavaCheck.jar"
+   10.875 D STDOUT "os.arch=amd64\njava.version=1.8.0_292\njava.vendor=Private Build\n"
+   10.876 W STDERR ""
+   10.876 D Java checker finished with status  QProcess::ExitStatus(NormalExit)  exit code  0
+   10.876 D Java checker succeeded.
+   10.994 D Env: ignoring "LD_LIBRARY_PATH" "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/bin:"
+   10.994 D Env: ignoring "LD_PRELOAD" ""
+   10.995 D Env: ignoring "QT_ACCESSIBILITY" "1"
+   10.995 D Env: ignoring "QT_FONTPATH" "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/fonts"
+   10.995 D Env: ignoring "QT_IM_MODULE" "ibus"
+   10.995 D Env: ignoring "QT_PLUGIN_PATH" "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/plugins"
+   10.995 D Env: stripped @im=ibus from "@im=ibus" : ""
+   10.995 D "Running java checker: /usr/lib/jvm/java-8-openjdk-amd64/jre/bin/java-Xms512m -Xmx1408m -jar /home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/bin/jars/JavaCheck.jar"
+   11.083 D STDOUT "os.arch=amd64\njava.version=1.8.0_292\njava.vendor=Private Build\n"
+   11.083 W STDERR ""
+   11.083 D Java checker finished with status  QProcess::ExitStatus(NormalExit)  exit code  0
+   11.083 D Java checker succeeded.
+   11.200 D Env: ignoring "LD_LIBRARY_PATH" "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/bin:"
+   11.200 D Env: ignoring "LD_PRELOAD" ""
+   11.200 D Env: ignoring "QT_ACCESSIBILITY" "1"
+   11.200 D Env: ignoring "QT_FONTPATH" "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/fonts"
+   11.200 D Env: ignoring "QT_IM_MODULE" "ibus"
+   11.201 D Env: ignoring "QT_PLUGIN_PATH" "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/plugins"
+   11.201 D Env: stripped @im=ibus from "@im=ibus" : ""
+   11.201 D "Running java checker: /usr/lib/jvm/java-8-openjdk-amd64/jre/bin/java-Xms512m -Xmx1536m -jar /home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/bin/jars/JavaCheck.jar"
+   11.284 D STDOUT "os.arch=amd64\njava.version=1.8.0_292\njava.vendor=Private Build\n"
+   11.284 W STDERR ""
+   11.284 D Java checker finished with status  QProcess::ExitStatus(NormalExit)  exit code  0
+   11.284 D Java checker succeeded.
+   11.630 D Env: ignoring "LD_LIBRARY_PATH" "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/bin:"
+   11.631 D Env: ignoring "LD_PRELOAD" ""
+   11.631 D Env: ignoring "QT_ACCESSIBILITY" "1"
+   11.631 D Env: ignoring "QT_FONTPATH" "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/fonts"
+   11.631 D Env: ignoring "QT_IM_MODULE" "ibus"
+   11.631 D Env: ignoring "QT_PLUGIN_PATH" "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/plugins"
+   11.632 D Env: stripped @im=ibus from "@im=ibus" : ""
+   11.632 D "Running java checker: /usr/lib/jvm/java-8-openjdk-amd64/jre/bin/java-Xms512m -Xmx1664m -jar /home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/bin/jars/JavaCheck.jar"
+   11.714 D STDOUT "os.arch=amd64\njava.version=1.8.0_292\njava.vendor=Private Build\n"
+   11.714 W STDERR ""
+   11.714 D Java checker finished with status  QProcess::ExitStatus(NormalExit)  exit code  0
+   11.714 D Java checker succeeded.
+   11.973 D Env: ignoring "LD_LIBRARY_PATH" "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/bin:"
+   11.973 D Env: ignoring "LD_PRELOAD" ""
+   11.974 D Env: ignoring "QT_ACCESSIBILITY" "1"
+   11.974 D Env: ignoring "QT_FONTPATH" "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/fonts"
+   11.974 D Env: ignoring "QT_IM_MODULE" "ibus"
+   11.974 D Env: ignoring "QT_PLUGIN_PATH" "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/plugins"
+   11.974 D Env: stripped @im=ibus from "@im=ibus" : ""
+   11.975 D "Running java checker: /usr/lib/jvm/java-8-openjdk-amd64/jre/bin/java-Xms512m -Xmx1792m -jar /home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/bin/jars/JavaCheck.jar"
+   12.055 D STDOUT "os.arch=amd64\njava.version=1.8.0_292\njava.vendor=Private Build\n"
+   12.055 W STDERR ""
+   12.055 D Java checker finished with status  QProcess::ExitStatus(NormalExit)  exit code  0
+   12.055 D Java checker succeeded.
+   12.355 D Env: ignoring "LD_LIBRARY_PATH" "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/bin:"
+   12.355 D Env: ignoring "LD_PRELOAD" ""
+   12.356 D Env: ignoring "QT_ACCESSIBILITY" "1"
+   12.356 D Env: ignoring "QT_FONTPATH" "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/fonts"
+   12.356 D Env: ignoring "QT_IM_MODULE" "ibus"
+   12.356 D Env: ignoring "QT_PLUGIN_PATH" "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/plugins"
+   12.356 D Env: stripped @im=ibus from "@im=ibus" : ""
+   12.357 D "Running java checker: /usr/lib/jvm/java-8-openjdk-amd64/jre/bin/java-Xms512m -Xmx1920m -jar /home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/bin/jars/JavaCheck.jar"
+   12.441 D STDOUT "os.arch=amd64\njava.version=1.8.0_292\njava.vendor=Private Build\n"
+   12.441 W STDERR ""
+   12.441 D Java checker finished with status  QProcess::ExitStatus(NormalExit)  exit code  0
+   12.442 D Java checker succeeded.
+   12.838 D Env: ignoring "LD_LIBRARY_PATH" "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/bin:"
+   12.839 D Env: ignoring "LD_PRELOAD" ""
+   12.839 D Env: ignoring "QT_ACCESSIBILITY" "1"
+   12.839 D Env: ignoring "QT_FONTPATH" "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/fonts"
+   12.839 D Env: ignoring "QT_IM_MODULE" "ibus"
+   12.839 D Env: ignoring "QT_PLUGIN_PATH" "/home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/plugins"
+   12.840 D Env: stripped @im=ibus from "@im=ibus" : ""
+   12.840 D "Running java checker: /usr/lib/jvm/java-8-openjdk-amd64/jre/bin/java-Xms512m -Xmx2048m -jar /home/eden/MinecraftChromebook/ChromebookMCreal/AvacadoWizard120.github.io/build-files/install/bin/jars/JavaCheck.jar"
+   12.921 D STDOUT "os.arch=amd64\njava.version=1.8.0_292\njava.vendor=Private Build\n"
+   12.921 W STDERR ""
+   12.921 D Java checker finished with status  QProcess::ExitStatus(NormalExit)  exit code  0
+   12.921 D Java checker succeeded.
+   21.446 D Analytics disabled by user.
+   21.451 D Wizard result = 1
+   21.529 W QMetaObject::connectSlotsByName: No matching signal for on_actionInstanceSettings_triggered()
+   21.530 D Task "NetJob(Status JSON)" starting for the first time
+   21.531 D Reloading news.
+   21.531 D Task "NetJob(News RSS Feed)" starting for the first time
+   21.531 C Failed to check for notifications. No notifications URL set. If you'd like to use MultiMC's notification system, please pass the URL to CMake at compile time.
+   21.563 D Viewport size "800x600"
+   21.563 D RAM size is 7908 MB
+   21.689 D "Distributor ID:\tUbuntu\nDescription:\tUbuntu 18.04.5 LTS\nRelease:\t18.04\nCodename:\tbionic\n"
+   21.711 D [Analytics] "ScreenView: Main Window"
+   21.711 D <> Main window shown.
+   21.713 D Downloading  "https://status.mojang.com/check"
+   21.713 D Downloading  "https://multimc.org/rss.xml"
+   21.997 D Download succeeded: "https://status.mojang.com/check"
+   21.997 D Task "NetJob(Status JSON)" succeeded
+   21.997 D Finished loading status JSON.
+   21.998 D Status loading succeeded.
+   22.170 D Download succeeded: "https://multimc.org/rss.xml"
+   22.170 D Task "NetJob(News RSS Feed)" succeeded
+   22.170 D Finished loading RSS feed.
+   22.174 D Loaded news entry "0.6.12 - Spring cleaning and modpack platforms"
+   22.174 D Loaded news entry "About Microsoft accounts"
+   22.174 D Loaded news entry "0.6.7 - UI fixes and important metadata news - update required!"
+   22.175 D Loaded news entry "0.6.5 - translation UI and legacy sound fixes"
+   22.175 D Loaded news entry "0.6.4 - better translation workflow and new FTB API location"
+   22.175 D Loaded news entry "0.6.3 - The Big Sync"
+   22.175 D Loaded news entry "0.6.2 Released!"
+   22.176 D Loaded news entry "0.6.1 Released!"
+   22.176 D Loaded news entry "0.6.0 Released!"
+   22.176 D Loaded news entry "Introducing the Archive"
+   22.176 D Loaded news entry "0.5.1 - Bugfixes."
+   22.177 D Loaded news entry "0.5.0 - Running multiple instances at the same time!"
+   22.177 D Loaded news entry "0.4.11 - OSX 10.7 fix and workaround for Minecraft 1.9 compatibility"
+   22.177 D Loaded news entry "0.4.10 - Another wifi fix"
+   22.177 D Loaded news entry "0.4.9 - the Windows wifi fix."
+   22.178 D Loaded news entry "0.4.8 - Worlds and more."
+   22.178 D Loaded news entry "0.4.7 - What 0.4.6 should have been."
+   22.178 D Loaded news entry "0.4.6 - Bug fixes and improvements!"
+   22.178 D Loaded news entry "0.4.5 - Translations, Themes, and Technic"
+   22.179 D Loaded news entry "0.4 out - Jar mods, UI changes, and more!"
+   22.179 D Loaded news entry "Introducing QuickMods - A better way to install mods"
+   22.179 D Loaded news entry "Support us on Patreon!"
+   22.180 D Loaded news entry "Heartbleed Vulnerability Update (fixed!)"
+   22.180 D Loaded news entry "Announcing MultiMC 6"
+   22.180 D Loaded news entry "0.3 - The big feature update."
+   22.180 D Loaded news entry "First official MultiMC 5 release!"
+   22.181 D Loaded news entry "MultiMC Status Update"
+   22.181 D News loading succeeded.
+   40.703 D Task "NetJob(Download of meta file net.minecraft/index.json)" starting for the first time
+   40.737 D Downloading  "https://cavocraft.ml/CBMC/net.minecraft/index.json"
+   40.962 D Location header: QUrl("http://www.cavocraft.ml/CBMC/net.minecraft/index.json")
+   40.962 D Following redirect to  "http://www.cavocraft.ml/CBMC/net.minecraft/index.json"
+   40.963 D Downloading  "http://www.cavocraft.ml/CBMC/net.minecraft/index.json"
+   40.963 D Download redirected: "http://www.cavocraft.ml/CBMC/net.minecraft/index.json"
+   41.114 D Location header: QUrl("https://www.cavocraft.ml/CBMC/net.minecraft/index.json")
+   41.114 D Following redirect to  "https://www.cavocraft.ml/CBMC/net.minecraft/index.json"
+   41.115 D Downloading  "https://www.cavocraft.ml/CBMC/net.minecraft/index.json"
+   41.116 D Download redirected: "https://www.cavocraft.ml/CBMC/net.minecraft/index.json"
+   41.289 C Exception: "net.minecraft/index.json: Error parsing JSON: illegal value"
+   41.289 W Unable to parse response: "net.minecraft/index.json: Error parsing JSON: illegal value"
+   41.290 D Download failed to finalize: "https://www.cavocraft.ml/CBMC/net.minecraft/index.json"
+   41.290 D Downloading  "https://www.cavocraft.ml/CBMC/net.minecraft/index.json"
+   41.419 C Exception: "net.minecraft/index.json: Error parsing JSON: illegal value"
+   41.419 W Unable to parse response: "net.minecraft/index.json: Error parsing JSON: illegal value"
+   41.419 D Download failed to finalize: "https://www.cavocraft.ml/CBMC/net.minecraft/index.json"
+   41.420 D Downloading  "https://www.cavocraft.ml/CBMC/net.minecraft/index.json"
+   41.493 C Exception: "net.minecraft/index.json: Error parsing JSON: illegal value"
+   41.493 W Unable to parse response: "net.minecraft/index.json: Error parsing JSON: illegal value"
+   41.493 D Download failed to finalize: "https://www.cavocraft.ml/CBMC/net.minecraft/index.json"
+   41.494 D Downloading  "https://www.cavocraft.ml/CBMC/net.minecraft/index.json"
+   41.559 C Exception: "net.minecraft/index.json: Error parsing JSON: illegal value"
+   41.559 W Unable to parse response: "net.minecraft/index.json: Error parsing JSON: illegal value"
+   41.559 D Download failed to finalize: "https://www.cavocraft.ml/CBMC/net.minecraft/index.json"
+   41.560 C Task "NetJob(Download of meta file net.minecraft/index.json)" failed:  "Job 'Download of meta file net.minecraft/index.json' failed to process:\nhttps://www.cavocraft.ml/CBMC/net.minecraft/index.json"
+   81.859 D Task "NetJob(Status JSON)" starting for the first time
+   81.859 D Downloading  "https://status.mojang.com/check"
+   82.573 D Download succeeded: "https://status.mojang.com/check"
+   82.573 D Task "NetJob(Status JSON)" succeeded
+   82.573 D Finished loading status JSON.
+   82.573 D Status loading succeeded.
+  141.858 D Task "NetJob(Status JSON)" starting for the first time
+  141.858 D Downloading  "https://status.mojang.com/check"
+  142.074 D Download succeeded: "https://status.mojang.com/check"
+  142.074 D Task "NetJob(Status JSON)" succeeded
+  142.074 D Finished loading status JSON.
+  142.074 D Status loading succeeded.
+  201.859 D Task "NetJob(Status JSON)" starting for the first time
+  201.860 D Downloading  "https://status.mojang.com/check"
+  202.164 D Download succeeded: "https://status.mojang.com/check"
+  202.164 D Task "NetJob(Status JSON)" succeeded
+  202.165 D Finished loading status JSON.
+  202.165 D Status loading succeeded.
+  261.858 D Task "NetJob(Status JSON)" starting for the first time
+  261.859 D Downloading  "https://status.mojang.com/check"
+  262.079 D Download succeeded: "https://status.mojang.com/check"
+  262.080 D Task "NetJob(Status JSON)" succeeded
+  262.080 D Finished loading status JSON.
+  262.080 D Status loading succeeded.
+  321.859 D Task "NetJob(Status JSON)" starting for the first time
+  321.859 D Downloading  "https://status.mojang.com/check"
+  322.128 D Download succeeded: "https://status.mojang.com/check"
+  322.129 D Task "NetJob(Status JSON)" succeeded
+  322.129 D Finished loading status JSON.
+  322.129 D Status loading succeeded.
+  381.859 D Task "NetJob(Status JSON)" starting for the first time
+  381.859 D Downloading  "https://status.mojang.com/check"
+  384.126 D Download succeeded: "https://status.mojang.com/check"
+  384.126 D Task "NetJob(Status JSON)" succeeded
+  384.126 D Finished loading status JSON.
+  384.126 D Status loading succeeded.
+  441.860 D Task "NetJob(Status JSON)" starting for the first time
+  441.860 D Downloading  "https://status.mojang.com/check"
+  442.099 D Download succeeded: "https://status.mojang.com/check"
+  442.099 D Task "NetJob(Status JSON)" succeeded
+  442.101 D Finished loading status JSON.
+  442.101 D Status loading succeeded.
+  501.859 D Task "NetJob(Status JSON)" starting for the first time
+  501.859 D Downloading  "https://status.mojang.com/check"
+  502.035 D Download succeeded: "https://status.mojang.com/check"
+  502.035 D Task "NetJob(Status JSON)" succeeded
+  502.036 D Finished loading status JSON.
+  502.037 D Status loading succeeded.
+  561.860 D Task "NetJob(Status JSON)" starting for the first time
+  561.860 D Downloading  "https://status.mojang.com/check"
+  562.070 D Download succeeded: "https://status.mojang.com/check"
+  562.070 D Task "NetJob(Status JSON)" succeeded
+  562.071 D Finished loading status JSON.
+  562.072 D Status loading succeeded.
+  621.858 D Task "NetJob(Status JSON)" starting for the first time
+  621.859 D Downloading  "https://status.mojang.com/check"
+  622.025 D Download succeeded: "https://status.mojang.com/check"
+  622.025 D Task "NetJob(Status JSON)" succeeded
+  622.025 D Finished loading status JSON.
+  622.025 D Status loading succeeded.
+  681.858 D Task "NetJob(Status JSON)" starting for the first time
+  681.859 D Downloading  "https://status.mojang.com/check"
+  682.102 D Download succeeded: "https://status.mojang.com/check"
+  682.102 D Task "NetJob(Status JSON)" succeeded
+  682.102 D Finished loading status JSON.
+  682.103 D Status loading succeeded.

@@ -1,0 +1,11 @@
+net/minecraft/Launcher.class
+org/multimc/EntryPoint$Action.class
+org/multimc/EntryPoint.class
+org/multimc/Launcher.class
+org/multimc/LegacyFrame$1.class
+org/multimc/LegacyFrame.class
+org/multimc/NotFoundException.class
+org/multimc/ParamBucket.class
+org/multimc/ParseException.class
+org/multimc/Utils.class
+org/multimc/onesix/OneSixLauncher.class
